@@ -7,7 +7,7 @@ function Header(props){ // { text: 'Mohamed Aldahoul', age: 32 }
     return(
         <div>
             <div > 
-                <h1>Hello : {props.text} {props.age}</h1>
+                <h1>Hello To ReactJs: {props.text} {props.age}</h1>
             </div>
             <div > 
                 <p className ="img"> Image {props.text}</p>
