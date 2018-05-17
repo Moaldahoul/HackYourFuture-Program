@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.AppClass{
+  width: 90vw;
+  height: 80vh;
+  background-color: lightgreen; 
+}
+span{
+  font-size: 20px;
+}
+.checked{
+  color: red;
+  text-decoration: line-through;
+}
+
+.unchecked{
+  color: blue;
+  text-decoration: underline;
+}
